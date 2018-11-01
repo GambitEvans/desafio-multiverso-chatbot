@@ -1,0 +1,24 @@
+{
+  "name": "desafio-multiverso-chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot utilizando Watson Assistente e Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solutisfsw/desafio-multiverso-chatbot.git"
+  },
+  "author": "Vinicius Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solutisfsw/desafio-multiverso-chatbot/issues"
+  },
+  "homepage": "https://github.com/solutisfsw/desafio-multiverso-chatbot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "watson-developer-cloud": "^3.13.0"
+  }
+}
